@@ -1,0 +1,11 @@
+C:\Users\KNOWN\Documents\immersion\jacky\obj\MCD\Debug\netcoreapp2.2\jacky.csprojAssemblyReference.cache
+C:\Users\KNOWN\Documents\immersion\jacky\obj\MCD\Debug\netcoreapp2.2\jacky.csproj.CoreCompileInputs.cache
+C:\Users\KNOWN\Documents\immersion\jacky\obj\MCD\Debug\netcoreapp2.2\jacky.AssemblyInfoInputs.cache
+C:\Users\KNOWN\Documents\immersion\jacky\obj\MCD\Debug\netcoreapp2.2\jacky.AssemblyInfo.cs
+C:\Users\KNOWN\Documents\immersion\jacky\bin\MCD\Debug\netcoreapp2.2\jacky.deps.json
+C:\Users\KNOWN\Documents\immersion\jacky\bin\MCD\Debug\netcoreapp2.2\jacky.runtimeconfig.json
+C:\Users\KNOWN\Documents\immersion\jacky\bin\MCD\Debug\netcoreapp2.2\jacky.runtimeconfig.dev.json
+C:\Users\KNOWN\Documents\immersion\jacky\bin\MCD\Debug\netcoreapp2.2\jacky.dll
+C:\Users\KNOWN\Documents\immersion\jacky\bin\MCD\Debug\netcoreapp2.2\jacky.pdb
+C:\Users\KNOWN\Documents\immersion\jacky\obj\MCD\Debug\netcoreapp2.2\jacky.dll
+C:\Users\KNOWN\Documents\immersion\jacky\obj\MCD\Debug\netcoreapp2.2\jacky.pdb
